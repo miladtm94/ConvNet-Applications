@@ -1346,12 +1346,13 @@ df_acc.plot(title='Model Accuracy',figsize=(12,8)).set(xlabel='Epoch',ylabel='Ac
 
 
 
+<img src="output_41_1.png">
+<!-- ![image](./output_41_1.png)
+ -->
+<img src="output_41_2.png">
 
-![image](./output_41_1.png)
 
-
-
-![image](./output_41_2.png)
+<!-- ![image](./output_41_2.png) -->
 
 
 **Congratulations**! You've finished the assignment and built two models: One that recognizes  smiles, and another that recognizes SIGN language with almost 80% accuracy on the test set. In addition to that, you now also understand the applications of two Keras APIs: Sequential and Functional. Nicely done! 
